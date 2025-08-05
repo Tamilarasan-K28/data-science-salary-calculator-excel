@@ -49,7 +49,7 @@ Here’s a preview of the Data Science Salary Calculator Dashboard:
 📁 Data-Science-Salary-Calculator-Excel/
 ├── Salary_Calculator.xlsx # Main Excel dashboard
 ├── README.md # Project documentation
-└── screenshot.png # Dashboard screenshot
+└── project.jpg # Dashboard screenshot
 
 ---
 
