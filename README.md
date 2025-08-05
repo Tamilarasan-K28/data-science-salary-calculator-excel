@@ -36,11 +36,11 @@ An interactive Excel-based dashboard that allows users to explore and compare sa
 
 ---
 
-## 🖼️ Screenshot
+## 📸 Screenshot
 
+Here’s a preview of the Data Science Salary Calculator Dashboard:
 
-
-> *(Replace with an actual image or upload the one you shared)*
+![Dashboard Screenshot](project.jpg)
 
 ---
 
@@ -64,7 +64,7 @@ An interactive Excel-based dashboard that allows users to explore and compare sa
 
 ## 🔗 Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or check out more of my work on [GitHub](https://github.com/Tamilarasan-K28/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tamilarasan-k-236074303/) or check out more of my work on [GitHub](https://github.com/Tamilarasan-K28/).
 
 ---
 
